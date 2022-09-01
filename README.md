@@ -1,2 +1,2 @@
 # Web Scraping
-This repo contains my code of web scraping (switch branch to see different scraping projects)
+This repo contains my code for web scraping (switch branches to see different scraping projects)
